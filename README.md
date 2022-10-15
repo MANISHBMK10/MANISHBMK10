@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MANISHBMK10
-- 👀 I’m interested in Data Science and Coding
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate as Data Scientist
+- 👀 I’m interested in Web Development and Coding
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ I’m looking to collaborate as Full Stack Developer
 - 📫 Contact me - manishkumarbadamoni10@gmail.com
 
 <!---
