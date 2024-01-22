@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MANISHBMK10
 - 👀 I’m interested in VLSI and Chip Designing.
-- 🌱 I’m currently Xilinx and other tools.
+- 🌱 I’m currently on Xilinx and Cadence.
 - 💞️ I’m looking to collaborate as VLSI Engineer.
 - 📫 Contact me - manishkumarbadamoni10@gmail.com
 
