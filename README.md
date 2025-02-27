@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MANISHBMK10
-- 👀 I’m passionate about VLSI and ASIC.
-- 💻 I’m looking to collaborate as VLSI/ASIC Engineer.
+- 👀 I’m passionate about VLSI, ASIC and Semiconductor manufacturing field.
+- 💻 I’m looking to collaborate as VLSI/ASIC/Process Engineer.
 - 📫 Contact me - manishkumar.b010@gmail.com
 
 <!---
