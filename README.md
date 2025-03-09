@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MANISHBMK10
-- 👀 I’m passionate about Physical Design and Semiconductor manufacturing field.
+- 👀 I’m passionate about VLSI, ASIC and Semiconductor manufacturing field.
 - 💻 I’m looking to collaborate as Design Engineer/Physical Design Engineer/Process Engineer.
 - 📫 Contact me - manishkumar.b010@gmail.com
 
