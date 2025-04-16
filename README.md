@@ -6,9 +6,10 @@ I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Alban
 
 ## Skills & Expertise
 
-- **Hardware & Digital Design:** ASIC design, RTL design (Verilog, VHDL), FPGA prototyping, Cadence Tempsu, Cadence Virtuoso, Cadence XCelium
+- **Hardware & Digital Design:** ASIC design, RTL design (Verilog, VHDL), FPGA prototyping, Cadence Tempus, Cadence Virtuoso, Cadence XCelium.
 - **Semiconductor Fabrication:** Photolithography, process optimization, VFabLab, dry development techniques
 - **Programming:** Python, C++, Perl, C.
+- **Tools:** Microsoft Excel, MATLAB.
 
 ## Projects
 
