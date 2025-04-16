@@ -33,7 +33,7 @@ I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Alban
 
 ## Contact
 
-- **Email:** [manishkumarbadamoni10@gmail.com](mailto:manishkumar.b010@gmail.com)
+- **Email:** [manishkumar.b010@gmail.com](mailto:manishkumar.b010@gmail.com)
 - **LinkedIn:** [Manish Kumar Badamoni](https://www.linkedin.com/in/mbadamoni)
 
 ---
