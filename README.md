@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Albany**, specializing in **ASIC Design**, **Verification Methodlogies**, and **semiconductor fabrication**. Currently, I work as a **Senior Research Support Specialist** at NY CREATES & the Research Foundation at SUNY where I focus on advanced photolithography techniques. I’m looking to collaborate as Verifiaction Engineer/Circuit Design Engineer/ASIC Design Enginner/Process Engineer.
+I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Albany**, specializing in **ASIC Design**, **Verification Methodologies**, and **semiconductor fabrication**. Currently, I work as a **Senior Research Support Specialist** at NY CREATES & the Research Foundation at SUNY where I focus on advanced photolithography techniques. I’m looking to collaborate as **Verification Engineer/Circuit Design Engineer/ASIC Design Enginner/Process Engineer.**
 
 ## Skills & Expertise
 
