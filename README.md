@@ -34,7 +34,7 @@ electron gun, process optimization, dry development techniques.
 - Developed and optimized **oxygen plasma etch recipes** (50–300 W, 10–100 mTorr) to evaluate resist etch resistance and process stability.  
 - Collected and analyzed process data to correlate **exposure, bake, and etch parameters** with resist performance metrics.  
 
-### Research Assistant  
+### Student Assistant  
 **College of Nanotechnology, Science, and Engineering – University at Albany, Albany, NY**  
 *May 2024 – August 2024*  
 - Designed and implemented an **asynchronous FIFO** (First-In-First-Out) buffer in **Verilog** for cross-clock domain communication.  
