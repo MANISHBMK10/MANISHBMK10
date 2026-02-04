@@ -12,11 +12,11 @@ I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Alban
 ## Professional Experience
 
 ### Senior Research Support Specialist  
-**The Research Foundation for SUNY – Albany NanoTech Complex, Albany, NY**  
+**The Research Foundation for SUNY – Albany, NY**  
 *May 2025 – Present*  
 
 ### Senior Research Aide  
-**The Research Foundation for SUNY – Albany NanoTech Complex, Albany, NY**  
+**The Research Foundation for SUNY – Albany, NY**  
 *September 2024 – April 2025*  
 
 ### Student Assistant  
