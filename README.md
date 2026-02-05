@@ -1,62 +1,106 @@
-# Hi there, I'm Manish Kumar Badamoni 👋
+# Hi there, I’m Manish Kumar Badamoni 👋
 
 ## About Me
 
-I'm a Graduate Student in Electrical and Computer Engineering at **SUNY at Albany**, specializing in **ASIC Design**, **Verification Methodologies**. Currently, I work as a **Senior Research Support Specialist** at the Research Foundation at SUNY. I’m looking to collaborate as **Verification Engineer/Circuit Design Engineer/ASIC Design Engineer.**
+I’m an **IP / Design Verification Engineer** at the **Research Foundation for SUNY**, with ~**1.5 years of hands-on experience** in **functional verification, ASIC design, and CPU architecture**.
 
-## Skills & Expertise
-- **Programming:** SystemVerilog, Verilog, VHDL, Python, C++, Perl, C, Linux.
-- **Tools:** Cadence Xcelium, JasperGold, Xilinx Vivado, Synopsys VCS, Mentor Questa, MATLAB
-- **Concepts:** x86 Architecture, ARM and RISC-V Architecture, Cache Hierarchy, Multiprocessor Computer Architecture, OOO Pipeline, Cache Coherence Protocols (MSI, MESI, MOESI), Branch Prediction, RTL & ASIC design, UVM, Assertions, Constraints, OOPs, Communication Protocols (SPI, I2C, UART), AMBA Protocols (AXI, APB).
-- **Scripting and GUI:** Python, Perl
-## Professional Experience
+My work focuses on building **UVM-based verification environments**, applying **assertion-based and coverage-driven verification**, and validating **AXI-based IPs and CDC-intensive designs**. I enjoy working at the intersection of **verification, RTL design, and computer architecture**.
 
-### Senior Research Support Specialist  
+I’m interested in opportunities as a **Design Verification Engineer / IP Verification Engineer**, where I can contribute to the verification of complex, high-performance hardware systems.
+
+---
+
+## 🧠 Skills & Expertise
+
+### Programming Languages
+- SystemVerilog, Verilog, VHDL  
+- C, C++, Python, Perl  
+- Linux
+
+### Verification Frameworks & Methodologies
+- UVM
+- Assertion-Based Verification (SVA)
+- Constrained-Random Testing
+- Coverage-Driven Verification
+
+### EDA Tools
+- Cadence Xcelium, JasperGold, SimVision  
+- Synopsys VCS  
+- Mentor Questa  
+- Xilinx Vivado  
+- MATLAB
+
+### Architecture & System Concepts
+- x86, ARM, RISC-V Architecture  
+- Cache Hierarchy, OOO Pipeline  
+- Cache Coherence (MSI, MESI, MOESI)  
+- Branch Prediction, OOPs
+
+### Protocols & Interconnects
+- SPI, I2C, UART  
+- AMBA (AXI, APB)  
+- Wishbone
+
+---
+
+## 💼 Professional Experience
+
+### IP Verification Engineer  
 **The Research Foundation for SUNY – Albany, NY**  
-*May 2025 – Present*  
+*September 2024 – Present*  
 
-### Senior Research Aide  
-**The Research Foundation for SUNY – Albany, NY**  
-*September 2024 – April 2025*  
+- Developed **reusable UVM-based verification environments** for **AXI memory IPs**, supporting configurable address/data widths and protocol variations.  
+- Implemented **constrained-random and directed tests**, assertions, and functional coverage to validate **read/write channels, bursts, and error responses**.  
+- Closed functional coverage through iterative test refinement and validated **protocol behavior under reset and backpressure scenarios**.
 
-### Student Assistant  
-**College of Nanotechnology, Science, and Engineering – University at Albany, Albany, NY**  
+---
+
+### FPGA Intern  
+**University at Albany – Albany, NY**  
 *May 2024 – August 2024*  
-- Designed and implemented an **asynchronous FIFO** (First-In-First-Out) buffer in **Verilog** for cross-clock domain communication.  
-- Integrated multiple FIFOs between memory and a **systolic array** to manage clock speed variations and prevent data loss.  
-- Conducted extensive **functional verification** using GTKWave to ensure data integrity and correct signal timing.  
-- Researched **hardware security vulnerabilities** by simulating Trojan injections and manipulating read/write pointer logic.
----
 
-## Course Projects
-
-
-### Systolic Array Accelerator | Cadence XCelium   
-- Designed a MAC (Multiply and Accumulate) unit and an 8-bit 4×4 matrix multiplier by utilizing 16 MAC instances for efficient matrix computations.  
-- Developed the matrix multiplier in Verilog for simulation in Cadence, ensuring proper synchronization.
-
-### Design of an Asynchronous Integer Arithmetic and Logic Processor | Xilinx, FPGA  
-*April 2024*  
-- Developed a binary arithmetic and logic processor for performing integer operations.  
-- Created a custom IP in Vivado IP Integrator block design and integrated it into a larger system for efficient data processing.  
-- Utilized VHDL to design user-defined IP blocks, ensuring modularity and scalability within the Vivado environment.
-
-## Education
-
-- **Master of Science in Electrical and Computer Engineering**  
-  *University at Albany, State University of New York (Aug 2023 – May 2025)*  
-  **CGPA:** 3.6 / 4.0  
-  *Relevant Coursework:* Integrated Circuit Devices, ASIC Design, Reconfigurable Computing, Deep Learning, Quantum Physics.
-
-- **Bachelor of Technology in Electronics and Communication Engineering**  
-  *Indian Institute of Information Technology, Sri City (2019 – 2023)*  
-  **CGPA:** 7.5 / 10  
-
-## Contact
-
-- **Email:** [manishkumar.b010@gmail.com](mailto:manishkumar.b010@gmail.com)
-- **LinkedIn:** [Manish Kumar Badamoni](https://www.linkedin.com/in/mbadamoni)
+- Designed and implemented an **asynchronous FIFO** in **SystemVerilog** for cross-clock domain communication.  
+- Integrated multiple FIFOs between memory and a **systolic array accelerator** to handle clock-rate mismatches.  
+- Performed **UVM-based functional verification** with assertions, achieving **100% functional coverage** across FIFO full/empty conditions, pointer synchronization, and CDC corner cases.
 
 ---
 
-Feel free to reach out if you would like to collaborate on projects related to digital hardware design, semiconductor technology, or ASIC development!
+## 📂 Selected Projects
+
+### AXI Memory IP Verification (UVM)
+- Built a **reusable UVM verification environment** for an AXI-based memory IP.
+- Verified protocol compliance using assertions, functional coverage, and corner-case scenarios including reset and backpressure.
+
+### Systolic Array Accelerator (TPU-Inspired Architecture)
+- Designed a **pipelined systolic array** using 16 MAC units for 4×4, 8-bit matrix multiplication.
+- Verified functional correctness and timing using **Cadence Xcelium**.
+
+### Cache and Memory Hierarchy Simulator
+- Built a configurable **C++ simulator** for a two-level (L1/L2) cache hierarchy.
+- Evaluated performance using **100,000+ memory access traces** across varying cache configurations.
+
+### Verification of Communication Protocols
+- Designed and verified **SPI, I2C, and UART** protocols using **SystemVerilog and UVM**.
+- Built structured testbenches and documented verification flows.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Electrical and Computer Engineering**  
+*University at Albany, State University of New York*  
+**GPA:** 3.6 / 4.0  
+Relevant Coursework: ASIC Design, Reconfigurable Computing, Advanced Verification with UVM, Deep Learning, Quantum Physics  
+
+**Bachelor of Technology in Electronics and Communication Engineering**  
+*Indian Institute of Information Technology, Sri City*  
+
+---
+
+## 📫 Contact
+
+- **Email:** mbadamoni@albany.edu  
+- **LinkedIn:** https://www.linkedin.com/in/mbadamoni  
+- **GitHub:** https://github.com/MANISHBMK10  
+
+Feel free to reach out if you’d like to collaborate or discuss **design verification, IP verification, computer architecture, or ASIC development**.
