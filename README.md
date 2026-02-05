@@ -38,7 +38,7 @@ I’m interested in opportunities as a **Design Verification Engineer / IP Verif
 
 ### Protocols & Interconnects
 - SPI, I2C, UART  
-- AMBA (AXI, APB)  
+- AMBA (AXI, APB, AHB)  
 - Wishbone
 
 ---
@@ -99,7 +99,7 @@ Relevant Coursework: ASIC Design, Reconfigurable Computing, Advanced Verificatio
 
 ## 📫 Contact
 
-- **Email:** mbadamoni@albany.edu  
+- **Email:** mbadamoni10@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/mbadamoni  
 - **GitHub:** https://github.com/MANISHBMK10  
 
