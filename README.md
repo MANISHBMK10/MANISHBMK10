@@ -65,11 +65,7 @@ I’m interested in opportunities as a **Design Verification Engineer / IP Verif
 
 ---
 
-## 📂 Selected Projects
-
-### AXI Memory IP Verification (UVM)
-- Built a **reusable UVM verification environment** for an AXI-based memory IP.
-- Verified protocol compliance using assertions, functional coverage, and corner-case scenarios including reset and backpressure.
+##  Selected Projects
 
 ### Systolic Array Accelerator (TPU-Inspired Architecture)
 - Designed a **pipelined systolic array** using 16 MAC units for 4×4, 8-bit matrix multiplication.
