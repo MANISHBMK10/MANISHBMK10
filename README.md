@@ -49,9 +49,9 @@ I’m interested in opportunities as a **Design Verification Engineer / IP Verif
 **The Research Foundation for SUNY – Albany, NY**  
 *September 2024 – Present*  
 
-- Developed **reusable UVM-based verification environments** for **AXI memory IPs**, supporting configurable address/data widths and protocol variations.  
-- Implemented **constrained-random and directed tests**, assertions, and functional coverage to validate **read/write channels, bursts, and error responses**.  
-- Closed functional coverage through iterative test refinement and validated **protocol behavior under reset and backpressure scenarios**.
+- Built a **configurable UVM-based verification environment** for an **AXI memory subsystem**, supporting multi-agent traffic from multiple masters through arbitration logic to AXI slave interfaces.
+- Developed **constrained-random and directed test sequences** with **SystemVerilog Assertions (SVA)** to validate AXI protocol compliance, including burst handling, transaction ordering, backpressure propagation, and reset scenarios.
+- Implemented **functional and cross-coverage models** to track protocol states and corner cases, and achieved coverage closure through iterative test refinement and stress testing.
 
 ---
 
