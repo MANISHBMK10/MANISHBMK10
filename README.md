@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m an **IP / Design Verification Engineer** at the **Research Foundation for SUNY**, with ~**1.5 years of hands-on experience** in **functional verification, ASIC design, and CPU architecture**.
+I’m an **IP / Design Verification Engineer** at the **Research Foundation for SUNY**, with ~**2 years of hands-on experience** in **functional verification, ASIC design, and CPU architecture**.
 
 My work focuses on building **UVM-based verification environments**, applying **assertion-based and coverage-driven verification**, and validating **AXI-based IPs designs**. I enjoy working at the intersection of **verification, RTL design, and computer architecture**.
 
