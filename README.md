@@ -2,11 +2,15 @@
 
 ## About Me
 
-I’m an **IP / Design Verification Engineer** at the **Research Foundation for SUNY**, with ~**2 years of hands-on experience** in **functional verification, ASIC design, and CPU architecture**.
+**Design Verification Engineer** at the **Dell Technologies**, with ~**4+ years of hands-on experience** in **semiconductor verification, ASIC/SoC validation, and protocol compliance testing for complex digital designs and high-performance computing platforms**.
 
-My work focuses on building **UVM-based verification environments**, applying **assertion-based and coverage-driven verification**, and validating **AXI-based IPs designs**. I enjoy working at the intersection of **verification, RTL design, and computer architecture**.
+Specialized in developing scalable, reusable UVM-based verification environments using SystemVerilog for IP, subsystem, and SoC-level verification. Proven ability to drive verification activities across the entire development lifecycle, including requirements analysis, verification planning, execution, coverage closure, debugging, and sign-off, ensuring high-quality silicon delivery.
 
-I’m interested in opportunities as a **Design Verification Engineer / IP Verification Engineer**, where I can contribute to the verification of complex, high-performance hardware systems.
+Possess strong expertise in constrained-random verification (CRV), functional and code coverage analysis, SystemVerilog Assertions (SVA), assertion-based verification, and reusable testbench architecture development. Experienced in verifying PCIe Gen4/Gen5, NVMe, memory subsystems, embedded control logic, and high-speed interfaces, with a focus on protocol compliance, corner-case validation, stress testing, and performance verification. Skilled in developing and maintaining UVM components such as drivers, monitors, scoreboards, sequencers, and coverage collectors to build robust and maintainable verification frameworks. 
+
+ Proficient in Python automation, CI/CD regression frameworks, Jenkins pipelines, Git version control, Shell scripting, and simulation-based verification workflows. Hands-on experience with industry-standard EDA tools including Synopsys VCS and Siemens QuestaSim for simulation, waveform analysis, coverage reporting, regression management, and root-cause debugging. Adept at regression failure triage, transaction-level debugging, and verification metrics analysis to accelerate defect resolution and improve verification efficiency. 
+
+Currently serving as a Design Verification Engineer at Dell Technologies, contributing to server SoC verification with a focus on PCIe Gen4/Gen5 and enterprise-class I/O subsystems. Recognized for strong analytical problem-solving skills, a commitment to verification excellence, and effective collaboration with RTL, architecture, firmware, and validation teams. Dedicated to advancing expertise in modern verification methodologies, automation frameworks, and next-generation semiconductor technologies. 
 
 ---
 
