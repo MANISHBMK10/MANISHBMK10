@@ -45,23 +45,27 @@ I’m interested in opportunities as a **Design Verification Engineer / IP Verif
 
 ## 💼 Professional Experience
 
-### IP Verification Engineer  
-**The Research Foundation for SUNY – Albany, NY**  
+### Design Verification Engineer  
+**Dell Technologies**  
 *September 2024 – Present*  
-
-- Built a **configurable UVM-based verification environment** for an **AXI memory subsystem**, supporting multi-agent traffic from multiple masters through arbitration logic to AXI slave interfaces.
-- Developed **constrained-random and directed test sequences** with **SystemVerilog Assertions (SVA)** to validate AXI protocol compliance, including burst handling, transaction ordering, backpressure propagation, and reset scenarios.
-- Implemented **functional and cross-coverage models** to track protocol states and corner cases, and achieved coverage closure through iterative test refinement and stress testing.
+- Developed UVM-based verification environments for PCIe Gen4/Gen5 and server I/O subsystems.
+- Performed protocol compliance, stress, and corner-case validation for PCIe and NVMe interfaces.
+- Implemented constrained-random and directed verification methodologies using SystemVerilog and UVM.
+- Improved functional and code coverage closure through comprehensive verification planning and regression execution.
+- Collaborated with RTL designers, architects, and firmware teams for defect resolution and verification sign-off.
+- Utilized Synopsys VCS, Siemens QuestaSim, Python automation, and Jenkins-based regression frameworks.
 
 ---
 
 ### FPGA Intern  
 **University at Albany – Albany, NY**  
-*May 2024 – August 2024*  
-
-- Designed and implemented an **asynchronous FIFO** in **SystemVerilog** for cross-clock domain communication.  
-- Integrated multiple FIFOs between memory and a **systolic array accelerator** to handle clock-rate mismatches.  
-- Performed **UVM-based functional verification** with assertions, achieving **100% functional coverage** across FIFO full/empty conditions, pointer synchronization, and CDC corner cases.
+*Jan 2021 – July 2023*  
+- Developed scalable UVM verification environments for Thin-Film Deposition Control Logic systems.
+- Created functional coverage models and assertion-based verification strategies aligned with ISO 13485 requirements.
+- Achieved 92% functional coverage and 96% code coverage through automated regression frameworks.
+- Developed reusable verification components for sensors, gas valves, and vacuum interfaces.
+- Integrated MATLAB behavioral models through DPI-C for co-verification.
+- Automated regression execution using Python and Jenkins, enabling 500+ simulation runs.
 
 ---
 
