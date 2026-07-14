@@ -41,6 +41,7 @@ Currently serving as a Design Verification Engineer at Dell Technologies, contri
 - Branch Prediction, OOPs
 
 ### Protocols & Interconnects
+- PCIe
 - SPI, I2C, UART  
 - AMBA (AXI, APB, AHB)  
 - Wishbone
@@ -61,15 +62,15 @@ Currently serving as a Design Verification Engineer at Dell Technologies, contri
 
 ---
 
-### FPGA Intern  
-**University at Albany – Albany, NY**  
-*Jan 2021 – July 2023*  
-- Developed scalable UVM verification environments for Thin-Film Deposition Control Logic systems.
-- Created functional coverage models and assertion-based verification strategies aligned with ISO 13485 requirements.
-- Achieved 92% functional coverage and 96% code coverage through automated regression frameworks.
-- Developed reusable verification components for sensors, gas valves, and vacuum interfaces.
-- Integrated MATLAB behavioral models through DPI-C for co-verification.
-- Automated regression execution using Python and Jenkins, enabling 500+ simulation runs.
+### Design Verification Engineer
+**Bosch Global Software Technologies**  
+*Jan 2021 – July 2023*    
+- Collaborated with system, hardware, and firmware teams to define verification scope for an Automotive Battery Management System (BMS), focusing on cell voltage monitoring, state-of-charge estimation, thermal management, and charging/discharging safety control logic.
+- Verified closed-loop battery behavior by developing a SystemVerilog UVM-based verification environment that modeled real-time sensor feedback (cell voltage, current, temperature) and actuator responses (charge enable/disable, cell balancing, and thermal shutdown control), using constrained-random stimulus and assertions to validate functional correctness and safety interlocks.
+- Established verification strategy through detailed test plans and functional coverage models aligned with ISO 26262 safety requirements, enabling structured requirement traceability in Polarion and achieving 95%+ coverage mapping across thermal, voltage, and fault scenarios.
+- Engineered reusable UVM components for battery cells, temperature sensors, and charger interfaces, enhancing testbench efficiency and reducing development effort by 30% through modular architecture and DPI-C integration with MATLAB-based battery behavioral models.
+- Conducted fault injection and stress validation scenarios including over-voltage, under-voltage, thermal runaway, and cell imbalance conditions, strengthening safety logic verification and achieving 98% assertion pass rate while reducing safety-related defects by 40%.
+- Integrated Jenkins-based regression automation and Python-driven test execution flows, enabling large-scale validation with 500+ simulation runs and achieving 100% functional and 96% code coverage for final verification closure.
 
 ---
 
